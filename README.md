@@ -1,1 +1,2 @@
-# icts
+# EmortalBot
+EmortalBot
